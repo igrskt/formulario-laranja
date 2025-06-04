@@ -23,5 +23,13 @@ body{
     color: #2b344b;
 }
 .title{
-    font-size: 1.8em;margin-bottom: 10%;
+    font-size: 1.8em;
+    margin-bottom: 10%;
+}
+.input{
+    min-width: 200px;
+    border-radius: 22px;
+    border: 2px #6f7e8a solid;
+    padding: 5px;
+    margin: 0px 0px 12px -5px;
 }
